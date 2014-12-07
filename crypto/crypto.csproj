@@ -4024,6 +4024,11 @@
                     BuildAction = "Compile"
                 />
                 <File
+                    RelPath = "src\crypto\parameters\ExternalRsaKeyParameters.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
                     RelPath = "src\crypto\parameters\GOST3410KeyGenerationParameters.cs"
                     SubType = "Code"
                     BuildAction = "Compile"
